@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<jokes>
+    <joke>
+        <jokeId>0</jokeId>
+        <content>efrfefrf</content>
+        <creationDate>2019-11-11</creationDate>
+        <numberOfLikes>3</numberOfLikes>
+    </joke>
+    <joke>
+        <jokeId>1</jokeId>
+        <content>retdfft</content>
+        <creationDate>2019-11-11</creationDate>
+        <numberOfLikes>0</numberOfLikes>
+        <comment>frfrfrfrw</comment>
+        <comment>erteettf</comment>
+    </joke>
+    <joke>
+        <jokeId>2</jokeId>
+        <content>efefrfrf</content>
+        <creationDate>2019-11-11</creationDate>
+        <numberOfLikes>1</numberOfLikes>
+    </joke>
+    <joke>
+        <jokeId>3</jokeId>
+        <content>vgvtdvtdvtd</content>
+        <creationDate>2019-11-11</creationDate>
+        <numberOfLikes>0</numberOfLikes>
+    </joke>
+    <joke>
+        <jokeId>4</jokeId>
+        <content>vvdtvtdtvt</content>
+        <creationDate>2019-11-11</creationDate>
+        <numberOfLikes>0</numberOfLikes>
+    </joke>
+    <joke>
+        <jokeId>5</jokeId>
+        <content>vgvvdtvdtvdv</content>
+        <creationDate>2019-11-11</creationDate>
+        <numberOfLikes>0</numberOfLikes>
+    </joke>
+</jokes>
